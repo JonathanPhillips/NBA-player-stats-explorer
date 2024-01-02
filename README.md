@@ -6,3 +6,7 @@ This app performs simple webscraping of NBA player stats data!
 
 To run the web app, run:
 streamlit run nba_player_app.py
+
+
+## Containerization
+* Dockerfile 
